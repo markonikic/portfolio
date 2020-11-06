@@ -1,0 +1,8 @@
+Welcome:)
+
+This is a project I did which at the time I did not know a lot about Javascript. I took the challenge to try and build this for practice and not to move on in the code without understanding the code I was reading. I still struggle with Javascript now, but will be getting better in a short period of time.
+
+I had a fun time building clock. I hope you enjoy it too. 
+
+***Link to video***
+
